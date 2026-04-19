@@ -1,0 +1,1001 @@
+Age,Gender,Year,Course,Branch,Bank_Account,Bank_Name,Demat_Account,Broker_Name,Trading_Segment,Income,Income_Source,Expenses,Track_Expenses,Budgeting_Knowledge,Savings
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10237
+20.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,74
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,645
+22.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,4467
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,No,161
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+19.0,Male,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+22.0,Female,4th year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,962
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1080
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,2266
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,721
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2025
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,2481
+20.0,Male,1st year,B.Tech,CSE,Yes,ICICI Bank,Yes,Zerodha,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,792
+20.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,286
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3843
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,982
+21.0,Female,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Futures & Options,10k to 30k,Freelancing,5k to 15k,Yes,Yes,772
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,2217
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,564
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,Yes,544
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2214
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2123
+23.0,Male,4th year,B.Tech,Mechanical,Yes,State Bank of India,Yes,Zerodha,Commodity,10k to 30k,Part - Time Job,less than 5k,No,Yes,8284
+21.0,Male,3rd year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Internship,less than 5k,Yes,No,7050
+26.0,Male,4th year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Male,2nd year,B.Tech,Civil,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Freelancing,less than 5k,Yes,Yes,2043
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3668
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Yes,No,282
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,118
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,177
+20.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Freelancing,less than 5k,Yes,No,4349
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,8197
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,21
+18.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,1778
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,232
+18.0,Male,1st year,B.Tech,Electrical,Yes,India post payments bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,1432
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1479
+18.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,2131
+20.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,612
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,153
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5254
+23.0,Male,4th year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,345
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,496
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,704
+21.0,Male,3rd year,Other,Not Applicable,Yes,PNB,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,Yes,1066
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity,less than 10k,Family support,more than 30k,Yes,Yes,4
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,470
+20.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,63
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,1198
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Yes,No,256
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,0
+20.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,No,3461
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1176
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,7962
+19.0,Male,1st year,B.Tech,Automobile,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,0
+23.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,434
+19.0,Male,2nd year,B.Tech,Civil,Yes,ICICI Bank,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,829
+21.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,142
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,281
+20.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,193
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,916
+21.0,Male,1st year,Other,Not Applicable,Yes,Bank of Baroda ,No,Not Applicable,,more than 30k,Family support,more than 30k,No,Yes,394
+18.0,Female,1st year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+20.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,58
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,312
+19.0,Male,1st year,B.Tech,CSE,Yes,BOB,Yes,Grow,Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,1159
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,383
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,97
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,918
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+23.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,166
+19.0,Male,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,349
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,163
+20.0,Female,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,394
+22.0,Female,4th year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,852
+19.0,Male,1st year,BA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,42
+20.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,1151
+18.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,BBA,Not Applicable,Yes,BOB,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,3950
+24.0,Male,2nd year,BBA,Not Applicable,Yes,yes bank,Yes,Angle One,Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,0
+19.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,58
+22.0,Male,3rd year,B.Tech,Automobile,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,223
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10294
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,439
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,241
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,294
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,121
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,175
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,9896
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,432
+22.0,Male,3rd year,B.Tech,Mechanical,Yes,Yes Bank,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,199
+23.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,171
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,192
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Yes,No,374
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,No,0
+19.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1049
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,49
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,2217
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,2223
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,407
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,No,790
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,375
+19.0,Male,1st year,B.Tech,Automobile,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,385
+22.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,1024
+20.0,Male,2nd year,B.Tech,Mechanical,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,859
+21.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,143
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,229
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,2459
+19.0,Male,1st year,B.Tech,Aerospace,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,634
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4848
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,246
+21.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Mutual Funds;Commodity,more than 30k,Freelancing,15k to 30k,Yes,Yes,5985
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,460
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,395
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,133
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,1910
+19.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,122
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,No,Yes,265
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,No,874
+20.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,280
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,1262
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,4162
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity,less than 10k,Family support,more than 30k,Yes,Yes,304
+21.0,Male,3rd year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Internship,less than 5k,Yes,No,7167
+19.0,Male,3rd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Others,15k to 30k,No,Yes,97
+23.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,11
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,2113
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,298
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1422
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4893
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,8183
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+21.0,Male,1st year,Other,Not Applicable,Yes,HDFC Bank,Yes,Paytm Money,Equity;Mutual Funds,10k to 30k,Family support,5k to 15k,Yes,Yes,5464
+22.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity,10k to 30k,Family support,less than 5k,Maybe,Yes,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,846
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,1057
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,343
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+23.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,199
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10186
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,368
+20.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,693
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,315
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,328
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2424
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3720
+21.0,Male,3rd year,Other,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Internship,5k to 15k,Yes,Yes,3275
+18.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Others,less than 10k,Others,less than 5k,No,Yes,357
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,2471
+19.0,Male,1st year,B.Tech,Electrical,Yes,PNB,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,509
+19.0,Male,3rd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Others,15k to 30k,No,Yes,0
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,0
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,295
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5189
+22.0,Male,4th year,B.Tech,CSE,Yes,Canara ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,205
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,Yes,No,2220
+23.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,990
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5442
+22.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,747
+18.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Others,less than 10k,Others,less than 5k,No,Yes,133
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1029
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,255
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,No,968
+21.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,606
+20.0,Male,2nd year,B.Tech,Mechanical,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,871
+21.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,759
+20.0,Male,2nd year,B.Tech,Civil,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Freelancing,less than 5k,Yes,Yes,2106
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,9811
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1118
+19.0,Male,2nd year,B.Tech,Civil,Yes,ICICI Bank,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,1413
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,195
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,334
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,460
+22.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,569
+20.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,286
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+21.0,Male,2nd year,B.Tech,Automobile,Yes,BOB,Yes,Grow,Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,No,333
+26.0,Male,4th year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,190
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,13
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,0
+23.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,488
+20.0,Male,1st year,B.Tech,CSE,Yes,ICICI Bank,Yes,Zerodha,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,727
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,167
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,36
+20.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,No,3052
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Male,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,449
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,No,783
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Yes,No,470
+21.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Mutual Funds,10k to 30k,Family support,15k to 30k,No,Yes,112
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,140
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,1518
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,2135
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,97
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10262
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,508
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,483
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,500
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,238
+20.0,Male,2nd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1197
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,205
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,268
+22.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,888
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5212
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,506
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,26
+21.0,Female,2nd year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,5894
+22.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Internship,15k to 30k,Maybe,No,961
+22.0,Male,3rd year,B.Tech,Automobile,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,352
+18.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,2402
+18.0,Male,1st year,B.Tech,Electrical,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,294
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,316
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,223
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2158
+20.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,379
+23.0,Male,4th year,B.Tech,Mechanical,Yes,State Bank of India,Yes,Zerodha,Commodity,10k to 30k,Part - Time Job,less than 5k,No,Yes,7912
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,84
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,2
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,8146
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity,less than 10k,Family support,more than 30k,Yes,Yes,134
+18.0,Male,1st year,B.Tech,Electrical,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,0
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,110
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,896
+19.0,Male,3rd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Others,15k to 30k,No,Yes,475
+19.0,Male,1st year,B.Tech,Electrical,Yes,PNB,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,949
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,106
+21.0,Male,1st year,Other,Not Applicable,Yes,HDFC Bank,Yes,Paytm Money,Equity;Mutual Funds,10k to 30k,Family support,5k to 15k,Yes,Yes,5135
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,189
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,0
+22.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity,10k to 30k,Family support,less than 5k,Maybe,Yes,147
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+23.0,Female,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,more than 30k,Freelancing,15k to 30k,Yes,Yes,911
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,277
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+19.0,Male,1st year,B.Tech,CSE,Yes,BOB,Yes,Grow,Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,1237
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,184
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3798
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,1416
+20.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,225
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,849
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5416
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,495
+19.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,256
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,360
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,356
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,488
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1029
+19.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,856
+21.0,Male,1st year,Other,Not Applicable,Yes,Yes bank,No,Not Applicable,,less than 10k,Others,more than 30k,Yes,No,726
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1123
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,959
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5004
+18.0,Male,1st year,B.Tech,Electrical,Yes,India post payments bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,1266
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1230
+21.0,Female,2nd year,BBA,Not Applicable,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,10k to 30k,Internship,less than 5k,No,Yes,607
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,15
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,632
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,1042
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,499
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2291
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,398
+20.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,1397
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+20.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,895
+19.0,Male,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,663
+21.0,Female,2nd year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,5518
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,3398
+22.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity,10k to 30k,Family support,less than 5k,Maybe,Yes,397
+20.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,1135
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,Yes,499
+18.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,5147
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,325
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,289
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,471
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+21.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Startup,less than 5k,Yes,Yes,1328
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Internship,5k to 15k,Yes,Yes,4841
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,Yes,3030
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,561
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,778
+18.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,352
+20.0,Male,2nd year,B.Tech,CSE,Yes,Punjab National Bank,Yes,Angle One,Equity;Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,260
+20.0,Male,2nd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1420
+19.0,Male,3rd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Others,15k to 30k,No,Yes,488
+20.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,217
+20.0,Female,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,271
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,ICICI Bank,Yes,Upstox,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,No,No,3193
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10245
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Male,1st year,B.Tech,Automobile,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,351
+20.0,Female,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,278
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,2286
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,Yes,696
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,Yes,411
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,No,Yes,14
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,411
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,1062
+19.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,272
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,300
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,716
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,210
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,1094
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Internship,less than 5k,No,No,89
+21.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Startup,less than 5k,Yes,Yes,1486
+21.0,Male,1st year,Other,Not Applicable,Yes,Bank of Baroda ,No,Not Applicable,,more than 30k,Family support,more than 30k,No,Yes,216
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+18.0,Male,1st year,B.Tech,Mechanical,Yes,Kotak 811,Yes,Kotak neo,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Family support,5k to 15k,Yes,Yes,2057
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,139
+21.0,Female,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Futures & Options,10k to 30k,Freelancing,5k to 15k,Yes,Yes,396
+20.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,295
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10462
+20.0,Male,3rd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Others,5k to 15k,No,Yes,2374
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,Yes,234
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,Yes,503
+18.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,4876
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,2058
+20.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Others,less than 10k,Family support,less than 5k,Maybe,Yes,380
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,135
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,526
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,No,519
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,No,Yes,174
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,1048
+21.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,623
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Internship,5k to 15k,Yes,Yes,5262
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,832
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,No,3315
+25.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Others,less than 10k,Freelancing,less than 5k,Yes,Yes,5435
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,0
+19.0,Male,1st year,BBA,Not Applicable,Yes,Jk,Yes,Grow,Mutual Funds,10k to 30k,Family support,5k to 15k,No,No,453
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4601
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,0
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,145
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Internship,5k to 15k,Yes,Yes,5026
+21.0,Male,1st year,Other,Not Applicable,Yes,Bank of Baroda ,No,Not Applicable,,more than 30k,Family support,more than 30k,No,Yes,142
+20.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,383
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,48
+24.0,Male,4th year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Upstox,Commodity;Others,less than 10k,Part - Time Job,less than 5k,Yes,Yes,964
+20.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,No,3007
+20.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Freelancing,less than 5k,Yes,No,4089
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,119
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,93
+23.0,Female,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,more than 30k,Freelancing,15k to 30k,Yes,Yes,745
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,865
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,222
+20.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,395
+20.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Freelancing,less than 5k,Yes,No,4014
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,0
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,0
+19.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,297
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,3147
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,0
+20.0,Male,1st year,B.Tech,Aerospace,Yes,Jk bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,628
+18.0,Male,1st year,B.Tech,Mechanical,Yes,Kotak 811,Yes,Kotak neo,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Family support,5k to 15k,Yes,Yes,2209
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,616
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+18.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Others,less than 10k,Others,less than 5k,No,Yes,0
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,Yes,18
+23.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,Yes,Yes,1138
+21.0,Male,3rd year,Other,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Internship,5k to 15k,Yes,Yes,3429
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,481
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,387
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,415
+21.0,Male,4th year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+18.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Others,less than 10k,Others,less than 5k,No,Yes,186
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2457
+22.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,800
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4806
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,124
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1066
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,5393
+21.0,Male,4th year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,77
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Maybe,Yes,328
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,79
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,Yes,2845
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,No,693
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,80
+20.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Others,less than 10k,Family support,less than 5k,Maybe,Yes,377
+18.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,B.Tech,Automobile,Yes,BOB,Yes,Grow,Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,No,922
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,634
+19.0,Male,1st year,B.Com,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,478
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,1297
+21.0,Male,2nd year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,1249
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,65
+21.0,Male,1st year,Other,Not Applicable,Yes,HDFC Bank,Yes,Paytm Money,Equity;Mutual Funds,10k to 30k,Family support,5k to 15k,Yes,Yes,5069
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,331
+21.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,567
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,95
+20.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,647
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,228
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,272
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2136
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,603
+20.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Others,less than 10k,Family support,less than 5k,Maybe,Yes,435
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,355
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,9865
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,648
+19.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,272
+19.0,Male,1st year,B.Tech,Aerospace,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,180
+20.0,Male,2nd year,B.Tech,Civil,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Freelancing,less than 5k,Yes,Yes,2142
+21.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,951
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,153
+19.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,286
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,621
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,768
+21.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,Yes,918
+19.0,Male,3rd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Others,15k to 30k,No,Yes,312
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,46
+18.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,2143
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,205
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,46
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,334
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,580
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,24
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,645
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity,less than 10k,Family support,more than 30k,Yes,Yes,184
+18.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,326
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,874
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,116
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5392
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,1037
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,886
+21.0,Male,3rd year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Internship,less than 5k,Yes,No,6883
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,336
+19.0,Male,1st year,B.Tech,Electrical,Yes,PNB,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,867
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,875
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,744
+19.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+23.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,919
+22.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,496
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,855
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,170
+21.0,Male,2nd year,B.Tech,CSE,Yes,BOB,Yes,Angle One,Equity;Futures & Options,less than 10k,Family support,less than 5k,Yes,No,586
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Internship,5k to 15k,Yes,Yes,4860
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,768
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Others,less than 10k,Family support,less than 5k,Maybe,Yes,650
+20.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,215
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,62
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,10114
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,324
+20.0,Male,1st year,B.Tech,Aerospace,Yes,Jk bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,162
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,274
+22.0,Male,1st year,Other,Not Applicable,Yes,Bank of india,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,2415
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,188
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,504
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,461
+22.0,Male,3rd year,B.Tech,Mechanical,Yes,Yes Bank,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,306
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,1st year,BBA,Not Applicable,Yes,Jk,Yes,Grow,Mutual Funds,10k to 30k,Family support,5k to 15k,No,No,262
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,448
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,367
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,593
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,492
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,3104
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5045
+20.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,1068
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,No,366
+20.0,Male,2nd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,911
+23.0,Male,4th year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,168
+23.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,559
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,1938
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,less than 10k,Part - Time Job,less than 5k,Yes,Yes,407
+22.0,Male,3rd year,B.Tech,CSE,Yes,Yes bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,1427
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,484
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,0
+21.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,234
+19.0,Male,2nd year,B.Tech,Civil,Yes,ICICI Bank,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,1146
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1059
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,682
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,824
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,324
+20.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,No,3395
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Maybe,Yes,895
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,468
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,392
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,678
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,499
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,123
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,133
+19.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,54
+19.0,Male,1st year,B.Tech,Automobile,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,377
+20.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,2nd year,B.Tech,Civil,Yes,ICICI Bank,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,1143
+22.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity,10k to 30k,Family support,less than 5k,Maybe,Yes,291
+21.0,Female,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Futures & Options,10k to 30k,Freelancing,5k to 15k,Yes,Yes,756
+20.0,Male,1st year,B.Tech,Aerospace,Yes,Jk bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,598
+23.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,Yes,Yes,796
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,883
+18.0,Male,1st year,B.Tech,Mechanical,Yes,Kotak 811,Yes,Kotak neo,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Family support,5k to 15k,Yes,Yes,1842
+20.0,Female,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,241
+21.0,Male,1st year,Other,Not Applicable,Yes,Bank of Baroda ,No,Not Applicable,,more than 30k,Family support,more than 30k,No,Yes,369
+18.0,Male,1st year,B.Tech,Electrical,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,0
+22.0,Male,3rd year,B.Tech,CSE,Yes,Yes bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,1172
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,423
+20.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+20.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Freelancing,less than 5k,Yes,No,4058
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,1462
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,4919
+21.0,Male,2nd year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,901
+24.0,Male,4th year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Grow,Futures & Options,10k to 30k,Startup,5k to 15k,Yes,Yes,8962
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,645
+22.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,4416
+18.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,1916
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,3183
+19.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,167
+25.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,Yes,1744
+23.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,78
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,953
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,315
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,ICICI Bank,Yes,Upstox,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,No,No,3077
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1382
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,459
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,51
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,921
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Maybe,Yes,104
+19.0,Male,1st year,BA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,512
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,355
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,11
+20.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,297
+20.0,Male,1st year,B.Tech,CSE,Yes,ICICI Bank,Yes,Zerodha,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,1030
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,Yes,No,2292
+19.0,Male,1st year,BA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,469
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4700
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,196
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,496
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,144
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,1478
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,2359
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,No,504
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,15
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,296
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,458
+20.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+23.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,No,1356
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank,Yes,Grow,Equity,10k to 30k,Family support,5k to 15k,No,Yes,120
+21.0,Male,1st year,Other,Not Applicable,Yes,HDFC Bank,Yes,Paytm Money,Equity;Mutual Funds,10k to 30k,Family support,5k to 15k,Yes,Yes,5492
+21.0,Male,2nd year,B.Tech,CSE,Yes,BOB,Yes,Angle One,Equity;Futures & Options,less than 10k,Family support,less than 5k,Yes,No,315
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,66
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,0
+19.0,Male,1st year,BA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,167
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2041
+18.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,5274
+20.0,Male,1st year,B.Tech,CSE,Yes,ICICI Bank,Yes,Zerodha,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,864
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,188
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1410
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,429
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2093
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,631
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,Yes bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1158
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1126
+19.0,Male,1st year,B.Tech,CSE,Yes,BOB,Yes,Grow,Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,1225
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,448
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,8025
+21.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Startup,less than 5k,Yes,Yes,1081
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,34
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,33
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,314
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,470
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,309
+25.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Others,less than 10k,Freelancing,less than 5k,Yes,Yes,5057
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,823
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,952
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1155
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2495
+18.0,Male,1st year,B.Tech,Mechanical,Yes,Kotak 811,Yes,Kotak neo,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Family support,5k to 15k,Yes,Yes,2363
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,254
+23.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,361
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,334
+21.0,Male,3rd year,BBA,Not Applicable,Yes,ICICI Bank,Yes,Grow,Mutual Funds,less than 10k,Internship,5k to 15k,Yes,Yes,2417
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,178
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,10
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,432
+21.0,Male,3rd year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Internship,less than 5k,Yes,No,7101
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,431
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,42
+21.0,Male,3rd year,Other,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Internship,5k to 15k,Yes,Yes,3294
+26.0,Male,4th year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,31
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank,Yes,Grow,Equity,10k to 30k,Family support,5k to 15k,No,Yes,278
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,405
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,333
+20.0,Female,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,328
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,930
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,475
+18.0,Male,1st year,B.Tech,Civil,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,301
+21.0,Male,2nd year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,1301
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,612
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,243
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3492
+20.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,166
+20.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,1446
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,457
+21.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,1104
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,Yes bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,984
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Mutual Funds;Commodity,more than 30k,Freelancing,15k to 30k,Yes,Yes,5889
+20.0,Male,2nd year,B.Tech,Civil,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Freelancing,less than 5k,Yes,Yes,2439
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5418
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,224
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,42
+19.0,Male,1st year,B.Tech,Electrical,Yes,Punjab National Bank ,Yes,Zerodha,Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,496
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,755
+23.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,Yes,Yes,980
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,No,952
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,351
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+24.0,Male,4th year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Grow,Futures & Options,10k to 30k,Startup,5k to 15k,Yes,Yes,9053
+18.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,5010
+21.0,Male,3rd year,Other,Not Applicable,Yes,PNB,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,Yes,857
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,526
+20.0,Male,2nd year,B.Tech,CSE,Yes,Punjab National Bank,Yes,Angle One,Equity;Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,452
+22.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity,10k to 30k,Family support,less than 5k,Maybe,Yes,0
+21.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,679
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4853
+19.0,Male,1st year,B.Tech,CSE,Yes,BOB,Yes,Grow,Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,1355
+18.0,Male,1st year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,104
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,182
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,479
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+20.0,Male,1st year,B.Tech,Aerospace,Yes,Jk bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,587
+22.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,4466
+21.0,Male,2nd year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,1194
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,1st year,B.Tech,Automobile,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,74
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,289
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,5410
+21.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,11
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,3433
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,Yes bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1196
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,780
+20.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Others,less than 10k,Family support,less than 5k,Maybe,Yes,541
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,339
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity,less than 10k,Family support,more than 30k,Yes,Yes,161
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,441
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,273
+20.0,Male,2nd year,B.Tech,Mechanical,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,462
+21.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,63
+19.0,Male,1st year,B.Tech,CSE,Yes,BOB,Yes,Grow,Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,1268
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+21.0,Male,4th year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,260
+19.0,Male,1st year,B.Com,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+22.0,Male,3rd year,B.Tech,Electrical,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,410
+18.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,322
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1041
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1010
+18.0,Male,1st year,B.Tech,Electrical,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,0
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,243
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,0
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,232
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,5437
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,163
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,323
+22.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1209
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank,Yes,Grow,Equity,10k to 30k,Family support,5k to 15k,No,Yes,295
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,997
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,117
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,30
+26.0,Male,4th year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,374
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5124
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,442
+19.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,2948
+20.0,Male,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,829
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1019
+19.0,Male,3rd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Others,15k to 30k,No,Yes,279
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2100
+19.0,Male,2nd year,B.Tech,Civil,Yes,ICICI Bank,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,1347
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,ICICI Bank,Yes,Upstox,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,No,No,3073
+18.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,165
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,876
+20.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,456
+19.0,Male,1st year,BA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,115
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+21.0,Male,3rd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Startup,less than 5k,Yes,Yes,1297
+18.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,221
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,668
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,16
+22.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,961
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,397
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,730
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,242
+24.0,Male,2nd year,BBA,Not Applicable,Yes,yes bank,Yes,Angle One,Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,Yes,Yes,410
+19.0,Male,1st year,B.Com,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,421
+19.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,156
+19.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,438
+20.0,Male,3rd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Others,5k to 15k,No,Yes,2262
+22.0,Male,4th year,B.Tech,CSE,Yes,Canara ,Yes,Grow,Others,less than 10k,Family support,less than 5k,Yes,Yes,0
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,1210
+22.0,Male,3rd year,B.Tech,CSE,Yes,Yes bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,1239
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,211
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,272
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Internship,5k to 15k,Yes,Yes,5496
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,673
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2085
+24.0,Male,4th year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Grow,Futures & Options,10k to 30k,Startup,5k to 15k,Yes,Yes,9291
+24.0,Male,4th year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Grow,Futures & Options,10k to 30k,Startup,5k to 15k,Yes,Yes,9116
+22.0,Male,3rd year,B.Tech,CSE,Yes,Yes bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,1033
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3968
+20.0,Female,2nd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,478
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,344
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1119
+22.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Internship,15k to 30k,Maybe,No,450
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,No,0
+21.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,757
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,484
+24.0,Male,4th year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Upstox,Commodity;Others,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1370
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,711
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,316
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5479
+20.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Others,less than 10k,Family support,less than 5k,Maybe,No,12
+24.0,Female,4th year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Internship,5k to 15k,Yes,Yes,4861
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Internship,less than 5k,No,No,446
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,48
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,No,477
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,256
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,No,Yes,413
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,541
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Equity,less than 10k,Family support,more than 30k,Yes,Yes,258
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,165
+22.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,No,665
+21.0,Female,2nd year,BBA,Not Applicable,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options,10k to 30k,Internship,less than 5k,No,Yes,593
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,149
+20.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Maybe,No,447
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2149
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,3rd year,Other,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Internship,5k to 15k,Yes,Yes,3007
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,0
+23.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,54
+22.0,Female,2nd year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,1280
+20.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,96
+20.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,86
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,4105
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4381
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,1624
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,492
+19.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Maybe,Yes,1225
+21.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Grow,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,0
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,867
+22.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Internship,15k to 30k,Maybe,No,716
+19.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,489
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,95
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,463
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1072
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,356
+19.0,Male,1st year,B.Tech,Electrical,Yes,Punjab National Bank ,Yes,Zerodha,Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,401
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,643
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,360
+23.0,Male,4th year,B.Tech,Mechanical,Yes,State Bank of India,Yes,Zerodha,Commodity,10k to 30k,Part - Time Job,less than 5k,No,Yes,8271
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,55
+24.0,Male,4th year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Grow,Futures & Options,10k to 30k,Startup,5k to 15k,Yes,Yes,9414
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+18.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,more than 30k,Others,more than 30k,No,No,5047
+18.0,Male,1st year,B.Tech,Electrical,Yes,India post payments bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,867
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,840
+18.0,Male,1st year,B.Tech,Electrical,Yes,India post payments bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,1056
+23.0,Male,4th year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,153
+22.0,Male,3rd year,B.Tech,Mechanical,Yes,Yes Bank,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,0
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,958
+19.0,Male,1st year,B.Tech,Aerospace,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,272
+19.0,Male,1st year,B.Tech,CSE,Yes,BOB,Yes,Grow,Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,1220
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,0
+21.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Mutual Funds,10k to 30k,Family support,15k to 30k,No,Yes,19
+19.0,Male,1st year,BBA,Not Applicable,Yes,Jk,Yes,Grow,Mutual Funds,10k to 30k,Family support,5k to 15k,No,No,299
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,308
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,446
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,195
+20.0,Male,2nd year,B.Tech,Civil,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Freelancing,less than 5k,Yes,Yes,2317
+20.0,Male,2nd year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,83
+22.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,819
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,1079
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,563
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,1846
+23.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,543
+20.0,Male,2nd year,B.Tech,Automobile,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1166
+20.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,139
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,241
+19.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,99
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,426
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,Yes,0
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,4952
+22.0,Male,3rd year,B.Tech,CSE,Yes,Yes bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,1150
+21.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,Yes,515
+23.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,493
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,53
+22.0,Female,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity,10k to 30k,Family support,less than 5k,Maybe,Yes,218
+23.0,Male,4th year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,222
+21.0,Male,3rd year,Other,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Internship,5k to 15k,Yes,Yes,3125
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Equity;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,3717
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,760
+26.0,Male,4th year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,498
+18.0,Male,1st year,BBA,Not Applicable,Yes,Pnb,No,Not Applicable,,10k to 30k,Freelancing,5k to 15k,Yes,Yes,78
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5347
+19.0,Male,1st year,B.Tech,Electrical,Yes,Punjab National Bank ,Yes,Zerodha,Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,0
+22.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,No,891
+21.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,Yes,Upstox,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Maybe,No,5273
+21.0,Male,2nd year,B.Tech,Aerospace,Yes,ICICI Bank,Yes,Upstox,Equity;Futures & Options;Mutual Funds,10k to 30k,Internship,less than 5k,No,No,3438
+23.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,38
+21.0,Male,3rd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,No,No,448
+22.0,Male,3rd year,B.Tech,Mechanical,Yes,Yes Bank,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,298
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Equity;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,3843
+19.0,Male,1st year,B.Com,Not Applicable,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,190
+20.0,Female,2nd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+19.0,Female,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,385
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,1125
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,0
+21.0,Male,2nd year,BBA,Not Applicable,Yes,BOB,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,3953
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,4810
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,0
+21.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Mutual Funds;Commodity,more than 30k,Freelancing,15k to 30k,Yes,Yes,5837
+21.0,Female,3rd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,197
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,334
+22.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,No,391
+19.0,Male,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,13
+21.0,Male,2nd year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,1131
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2248
+21.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,324
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,271
+18.0,Male,1st year,B.Tech,Civil,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,456
+24.0,Male,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Zerodha,Equity;Futures & Options;Mutual Funds,10k to 30k,Startup,5k to 15k,No,No,2207
+19.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1096
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Maybe,Yes,0
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,61
+18.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,791
+20.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Others,less than 10k,Family support,less than 5k,Maybe,Yes,515
+20.0,Female,2nd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,122
+20.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,No,3495
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,178
+20.0,Male,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Maybe,Yes,1068
+22.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,888
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,159
+20.0,Male,2nd year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Freelancing,less than 5k,Yes,No,4089
+24.0,Male,4th year,B.Tech,Automobile,Yes,HDFC Bank,Yes,Upstox,Commodity;Others,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1360
+18.0,Male,1st year,B.Tech,Electrical,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,355
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,Yes,0
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,2000
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,0
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,163
+19.0,Male,1st year,B.Tech,Electrical,Yes,PNB,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,435
+22.0,Male,3rd year,B.Tech,Automobile,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,162
+19.0,Male,4th year,BA,Not Applicable,Yes,State Bank of India,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,1056
+22.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1218
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,393
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,195
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,Yes,815
+25.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Others,less than 10k,Freelancing,less than 5k,Yes,Yes,4894
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Yes,No,0
+25.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Others,less than 10k,Freelancing,less than 5k,Yes,Yes,5068
+20.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Others,less than 10k,Family support,less than 5k,Maybe,No,393
+21.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Family support,less than 5k,Yes,Yes,367
+21.0,Male,1st year,Other,Not Applicable,Yes,HDFC Bank,Yes,Paytm Money,Equity;Mutual Funds,10k to 30k,Family support,5k to 15k,Yes,Yes,5043
+24.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,Yes,2906
+22.0,Male,1st year,Other,Not Applicable,Yes,Canara Bank,Yes,Grow,Equity,10k to 30k,Family support,5k to 15k,No,Yes,0
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,164
+20.0,Male,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,667
+18.0,Female,1st year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,498
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10486
+22.0,Male,3rd year,B.Com,Not Applicable,Yes,ICICI Bank,Yes,Angle One,Equity,10k to 30k,Part - Time Job,less than 5k,No,No,4773
+19.0,Male,1st year,B.Com,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Others,less than 5k,Yes,No,1141
+21.0,Male,1st year,Other,Not Applicable,Yes,Bank of Baroda ,No,Not Applicable,,more than 30k,Family support,more than 30k,No,Yes,91
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,Yes,Grow,Equity;Mutual Funds,less than 10k,Part - Time Job,less than 5k,Yes,Yes,3698
+25.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,Yes,Grow,Others,less than 10k,Freelancing,less than 5k,Yes,Yes,5369
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,10308
+23.0,Female,4th year,B.Tech,CSE,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,more than 30k,Freelancing,15k to 30k,Yes,Yes,862
+21.0,Male,1st year,Other,Not Applicable,Yes,Bank of Baroda ,No,Not Applicable,,more than 30k,Family support,more than 30k,No,Yes,243
+21.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,424
+22.0,Female,2nd year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Angle One,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,754
+21.0,Male,2nd year,BBA,Not Applicable,Yes,BOB,Yes,Zerodha,Equity;Futures & Options,10k to 30k,Freelancing,less than 5k,Yes,Yes,4116
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,300
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,69
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,No,Not Applicable,,10k to 30k,Part - Time Job,less than 5k,No,No,911
+21.0,Male,2nd year,B.Tech,CSE,Yes,BOB,Yes,Angle One,Equity;Futures & Options,less than 10k,Family support,less than 5k,Yes,No,505
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,164
+19.0,Female,1st year,B.Tech,Aerospace,Yes,HDFC Bank,No,Not Applicable,,10k to 30k,Family support,5k to 15k,Yes,No,0
+21.0,Male,2nd year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,1117
+19.0,Male,1st year,BBA,Not Applicable,Yes,Jk,Yes,Grow,Mutual Funds,10k to 30k,Family support,5k to 15k,No,No,0
+19.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,9
+20.0,Female,2nd year,B.Tech,CSE,Yes,IPPB,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,0
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Angle One,Futures & Options,less than 10k,Family support,less than 5k,Yes,Yes,413
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,306
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,7
+21.0,Male,1st year,BA,Not Applicable,Yes,ICICI Bank,Yes,Upstox,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Maybe,No,5196
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Internship,less than 5k,Yes,No,353
+20.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,56
+20.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,Yes,Yes,631
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Maybe,Yes,490
+20.0,Female,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,413
+22.0,Male,4th year,B.Tech,CSE,Yes,Yes Bank,Yes,Grow,Equity;Futures & Options,10k to 30k,Freelancing,5k to 15k,No,No,919
+18.0,Male,1st year,B.Tech,CSE,Yes,Bank of Baroda ,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,193
+22.0,Male,2nd year,B.Com,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,4609
+19.0,Male,1st year,B.Tech,Electrical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,2319
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,5k to 15k,Yes,No,1407
+24.0,Male,4th year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Equity;Futures & Options;Mutual Funds;Commodity,10k to 30k,Part - Time Job,less than 5k,Yes,No,10238
+20.0,Male,1st year,B.Tech,Electrical,Yes,Canara ,No,Not Applicable,,less than 10k,Family support,5k to 15k,No,No,895
+20.0,Male,2nd year,B.Tech,CSE,Yes,ICICI Bank,Yes,Angle One,Equity;Futures & Options;Commodity,10k to 30k,Internship,5k to 15k,Yes,No,3745
+20.0,Female,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,154
+21.0,Male,3rd year,B.Tech,Mechanical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,469
+20.0,Male,3rd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,10k to 30k,Others,5k to 15k,No,Yes,2371
+20.0,Female,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,16
+23.0,Male,4th year,Other,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,0
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,483
+21.0,Female,3rd year,B.Com,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options;Mutual Funds;Commodity,10k to 30k,Freelancing,less than 5k,Yes,Yes,5326
+22.0,Male,1st year,Other,Not Applicable,Yes,Bank of india,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,2181
+22.0,Male,1st year,Other,Not Applicable,Yes,Bank of india,No,Not Applicable,,more than 30k,Family support,5k to 15k,Yes,Yes,2085
+19.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,335
+20.0,Male,3rd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Grow,Commodity,less than 10k,Family support,5k to 15k,Yes,Yes,231
+19.0,Male,1st year,B.Tech,Mechanical,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+19.0,Male,1st year,B.Tech,Civil,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,392
+20.0,Male,2nd year,B.Tech,CSE,Yes,Punjab National Bank,Yes,Angle One,Equity;Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,289
+21.0,Female,2nd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,196
+20.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,15
+20.0,Female,2nd year,B.Tech,Civil,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,363
+19.0,Male,1st year,B.Tech,Electrical,Yes,Punjab National Bank ,Yes,Zerodha,Mutual Funds,less than 10k,Family support,less than 5k,Maybe,Yes,300
+18.0,Male,1st year,B.Tech,Aerospace,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,343
+21.0,Male,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Zerodha,Futures & Options,10k to 30k,Family support,less than 5k,No,No,881
+22.0,Male,1st year,Other,Not Applicable,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,1231
+21.0,Male,1st year,Other,Not Applicable,Yes,Yes bank,No,Not Applicable,,less than 10k,Others,more than 30k,Yes,No,562
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,221
+21.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Zerodha,Equity;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,No,486
+19.0,Male,1st year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,16
+21.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Maybe,No,0
+20.0,Male,2nd year,BBA,Not Applicable,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,226
+20.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,No,683
+20.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,702
+20.0,Female,2nd year,B.Tech,Electrical,Yes,State Bank of India,Yes,Upstox,Equity;Futures & Options,10k to 30k,Part - Time Job,less than 5k,Maybe,Yes,2448
+21.0,Female,2nd year,BBA,Not Applicable,Yes,ICICI Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,5749
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,331
+18.0,Male,1st year,B.Tech,Electrical,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,444
+21.0,Male,2nd year,BBA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Futures & Options,less than 10k,Internship,less than 5k,No,No,0
+18.0,Male,1st year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Part - Time Job,less than 5k,No,Yes,75
+19.0,Male,1st year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,997
+21.0,Male,1st year,B.Tech,Civil,No,Not Available,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,235
+20.0,Male,2nd year,B.Tech,Civil,Yes,HDFC Bank,Yes,Angle One,Equity;Futures & Options;Mutual Funds,less than 10k,Freelancing,less than 5k,Yes,Yes,2315
+20.0,Female,2nd year,B.Tech,CSE,Yes,BOB,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,478
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,Yes,5197
+22.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,No,No,485
+23.0,Male,3rd year,B.Tech,CSE,Yes,State Bank of India,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,433
+24.0,Male,4th year,B.Tech,Aerospace,Yes,HDFC Bank,Yes,Grow,Futures & Options,10k to 30k,Startup,5k to 15k,Yes,Yes,8874
+19.0,Male,2nd year,B.Tech,Civil,Yes,ICICI Bank,Yes,Grow,Equity;Futures & Options;Mutual Funds,10k to 30k,Part - Time Job,less than 5k,Yes,Yes,1071
+23.0,Male,2nd year,B.Tech,CSE,No,Not Available,No,Not Applicable,,less than 10k,Freelancing,less than 5k,Yes,Yes,620
+21.0,Male,2nd year,BA,Not Applicable,Yes,State Bank of India,Yes,Zerodha,Mutual Funds;Commodity,more than 30k,Freelancing,15k to 30k,Yes,Yes,6344
+21.0,Male,2nd year,B.Tech,CSE,Yes,HDFC Bank,No,Not Applicable,,less than 10k,Family support,less than 5k,Yes,Yes,234
+19.0,Male,1st year,B.Tech,Automobile,Yes,State Bank of India,Yes,Angle One,Futures & Options;Mutual Funds;Commodity,less than 10k,Family support,less than 5k,Yes,Yes,214
+20.0,Male,2nd year,B.Tech,CSE,Yes,State Bank of India,Yes,Grow,Futures & Options;Mutual Funds,less than 10k,Family support,less than 5k,Yes,Yes,24
